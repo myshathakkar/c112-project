@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(167, 231, 231);
+    text-align: center;
+    margin-left: 10px;
+}
+.main_div{
+    background-color: white;
+    border-radius: 20px;
+    border: 3px solid rgb(219, 10, 52);
+    width: 60%;
+}
+.main_div label{
+    font-size: 20;
+}
+.main_div img{
+  width: 200;
+  height: 150;
+}
+#size{
+    width:90px;
+    height: 80px;
+}
+.conclusion{
+    background-color: rgb(247, 231, 161);
+    color: black;
+    box-shadow: 10px 10px 5px white;
+    width: 90%;
+    margin-bottom: 25px;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: large;
+}
